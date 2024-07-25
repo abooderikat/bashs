@@ -1,2 +1,3 @@
 # bashs
 scripts bash
+read
